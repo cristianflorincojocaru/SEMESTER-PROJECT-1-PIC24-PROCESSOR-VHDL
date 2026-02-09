@@ -1,0 +1,15 @@
+[Inputs]
+=OP[4:0]=
+=Selection_Bits[1:0]=
+[Outputs]
+MemWr
+Mem2Reg
+RegWr
+RegDest
+CE_NF
+CE_OVF
+CE_ZF
+CE_CF
+Branch
+=ALUOP[2:0]=
+[BiDir]
