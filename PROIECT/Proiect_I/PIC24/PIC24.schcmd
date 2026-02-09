@@ -1,7 +1,0 @@
-select figure at 3870 297 6 -branches -sn=1
-name branch at 2128 1488 6 RegDest -sn=1
-name branch at 2128 1104 6 RegSurce -sn=1
-select figure at 1439 829 8 -branches -sn=1
-select figure at 1437 827 8 -branches -sn=1
-name branch at 2912 848 8 Clk -sn=1
-name branch at 2896 960 8 RegWr -sn=1
