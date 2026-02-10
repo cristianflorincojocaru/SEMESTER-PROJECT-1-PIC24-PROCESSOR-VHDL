@@ -26,7 +26,7 @@ The main objectives of this project are :
 
 - to **validate processor functionality** through **simulation and testbenches**
 
-- to integrate hardware (VHDL) with software-level testing (assembly code)
+- to integrate **hardware (VHDL)** with **software-level testing (assembly code)**
 
 
 
